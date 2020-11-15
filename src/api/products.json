@@ -1,0 +1,88 @@
+[
+   
+    {
+      "id": 1,
+      "name": "American Bobtail1",
+      "price": 30,
+      "image": "/images/Products/American-Bobtail1.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 2,
+      "name": "American Curl",
+      "price": 27,
+      "image": "/images/Products/American-Curl.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 3,
+      "name": "Birman cat",
+      "price": 25,
+      "image": "/images/Products/Birman.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 4,
+      "name": "American Shorthair",
+      "price": 31,
+      "image": "/images/Products/American-Shorthair.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 5,
+      "name": "Maine Coon",
+      "price": 50,
+      "image": "/images/Products/Maine-Coon.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 6,
+      "name": "Manx cat",
+      "price": 40,
+      "image": "/images/Products/Manx-Cat.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 7,
+      "name": "Munchkin cat",
+      "price": 61,
+      "image": "/images/Products/Munchkin-Cat.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 8,
+      "name": "Persian cat",
+      "price": 30,
+      "image": "/images/Products/Persian Cat.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 9,
+      "name": "Scottish Fold",
+      "price": 26,
+      "image": "/images/Products/Scottish Fold.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 10,
+      "name": "Toyger cat",
+      "price": 29,
+      "image": "/images/Products/Toyger.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 11,
+      "name": "Turkish Angora",
+      "price": 24,
+      "image": "/images/Products/Turkish-Angora.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 12,
+      "name": "Toyger cat",
+      "price": 30,
+      "image": "/images/Products/Toyger.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 300s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }   
+  ]
+  
